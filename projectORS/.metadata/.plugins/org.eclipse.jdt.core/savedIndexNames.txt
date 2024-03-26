@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\rays soft\workspace\project-10\projectORS\.metadata\.plugins\org.eclipse.jdt.core
+3230528076.index
+306272871.index
+1024446143.index
